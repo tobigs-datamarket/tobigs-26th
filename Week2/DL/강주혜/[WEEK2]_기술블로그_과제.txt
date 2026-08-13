@@ -1,0 +1,5 @@
+정규세션 리뷰: 
+https://velog.io/@juhye0635/투빅스-2주차-정규세션-ML
+
+논문 리뷰:
+https://velog.io/@juhye0635/투빅스-2주차-논문리뷰-Decoupled-Weight-Decay-Regularization
