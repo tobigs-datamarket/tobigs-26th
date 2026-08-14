@@ -1,0 +1,3 @@
+https://velog.io/@hyundolls-cyber/투빅스-2주차-논문리뷰-Why-do-Random-Forests-Work-Understanding-Tree-Ensembles-as-Self-Regularizing-Adaptive-Smoothers
+
+https://velog.io/@hyundolls-cyber/투빅스-2주차-정규세션
