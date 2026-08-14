@@ -1,0 +1,5 @@
+투빅스 26기 이현수
+2주차 기술블로그 
+
+세션 복습 블로그: https://velog.io/@dlgustn4665/투빅스-2주차-정규세션-DL
+논문 리뷰 블로그: https://velog.io/@dlgustn4665/투빅스-2주차-논문리뷰-Why-do-Random-Forests-Work
