@@ -1,5 +1,9 @@
 # macOS
 .DS_Store
+Icon
+Icon?
+Icon*
+Icon$'\r'
 
 # R
 .Rhistory
