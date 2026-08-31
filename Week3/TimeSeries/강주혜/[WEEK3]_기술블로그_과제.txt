@@ -1,0 +1,5 @@
+정규세션 리뷰:
+https://velog.io/@juhye0635/투빅스-3주차-정규세션-Time-Series
+
+논문 리뷰: 
+https://velog.io/@juhye0635/투빅스-3주차-논문리뷰-Reformer-Enhanced-Transformer-with-Rotary-Position-Embedding
