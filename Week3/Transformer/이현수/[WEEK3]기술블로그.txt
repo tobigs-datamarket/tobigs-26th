@@ -1,0 +1,5 @@
+투빅스 26기 이현수
+3주차 기술 블로그
+
+세션 복습 블로그: https://velog.io/@dlgustn4665/투빅스-3주차-정규세션-Time-series
+논문 리뷰 블로그: https://velog.io/@dlgustn4665/투빅스-3주차-논문리뷰-RoFormer-Enhanced-Transformer-with-Rotary-Position-Embedding
