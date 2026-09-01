@@ -1,0 +1,10 @@
+논문 리뷰
+
+https://velog.io/@ldk5183/%ED%88%AC%EB%B9%85%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-RoFormer-Enhanced-Transformer-with-Rotary-Position-Embedding
+
+
+
+정규세션 복습
+
+https://velog.io/@ldk5183/%ED%88%AC%EB%B9%85%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-Transformer
+
