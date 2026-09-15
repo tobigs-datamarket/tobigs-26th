@@ -1,0 +1,3 @@
+https://velog.io/@bokbok060323/NLP
+
+https://velog.io/@bokbok060323/LoRA-Low-Rank-Adaptation-of-Large-Language-Models
