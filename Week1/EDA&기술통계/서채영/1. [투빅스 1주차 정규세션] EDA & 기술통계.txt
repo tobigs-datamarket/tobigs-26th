@@ -1,0 +1,5 @@
+1. [투빅스 1주차 정규세션] EDA & 기술통계
+https://velog.io/@puppy0609/%ED%88%AC%EB%B9%85%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-EDA-%EA%B8%B0%EC%88%A0%ED%86%B5%EA%B3%84
+
+2.[투빅스 1주차 논문리뷰] Tidy Data
+https://velog.io/@puppy0609/%ED%88%AC%EB%B9%85%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-Tidy-Data
