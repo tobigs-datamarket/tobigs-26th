@@ -1,0 +1,6 @@
+[투빅스 8주차 정규세션] 추천시스템_GNN
+https://velog.io/@puppy0609/%ED%88%AC%EB%B9%85%EC%8A%A4-8%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9CGNN
+
+[투빅스 8주차 정규세션] LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+https://velog.io/@puppy0609/%ED%88%AC%EB%B9%85%EC%8A%A4-8%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%
+B7%9C%EC%84%B8%EC%85%98-LightGCN-Simplifying-and-Powering-Graph-ConvolutionNetwork-for-Recommendation
