@@ -1,0 +1,5 @@
+정규세션 리뷰:
+https://velog.io/@juhye0635/투빅스-8주차-정규세션-그로스분석지표설계-기초
+
+논문 리뷰: 
+https://velog.io/@juhye0635/투빅스-8주차-논문리뷰-Growth-Analytics-Assignment
